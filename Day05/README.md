@@ -1,1 +1,5 @@
-
+| Code File | Output |
+|-----------|--------|
+|[activity01.m](./Codes/activity01.m)|![1_1](https://github.com/user-attachments/assets/5c231779-bdcf-43eb-a06e-c9f53e011488)![1_2](https://github.com/user-attachments/assets/bb13333d-0888-46ba-aecc-09434efde85f)![1_3](https://github.com/user-attachments/assets/e938e70a-cff4-4291-804b-aa3ee433b1e3)|
+|[activity02.m](./Codes/activity02.m)|![2_1](https://github.com/user-attachments/assets/30f1240e-ecd5-4e2b-a200-bbb144068ac4)![2_2](https://github.com/user-attachments/assets/352d6ebd-b28f-4968-8c26-9b0cae55ad69)|
+|[activity03.m](./Codes/activity03.m)|![3_1](https://github.com/user-attachments/assets/af620037-4813-48ce-8591-a79671654b16)![3_2](https://github.com/user-attachments/assets/a72e193c-8b3a-4174-a1b6-308a0e591063)![3_3](https://github.com/user-attachments/assets/76d9ac3d-b27f-4c6b-a7dd-06883879bd9c)![3_4](https://github.com/user-attachments/assets/9d49f33f-cf0c-42cf-853d-edee01748d64)![3_5](https://github.com/user-attachments/assets/d557f51f-6cf3-4fc4-8cda-f35f16c5b4b9)|
