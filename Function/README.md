@@ -7,3 +7,5 @@
 |[myFunction.m](./Codes/myFunction.m)|![myFunction](https://github.com/user-attachments/assets/9481843c-673e-438c-9561-1559225e249a)|
 |[factorial.m](./Codes/factorial.m)|![factorial](https://github.com/user-attachments/assets/d5128c47-ef3a-47a8-932f-1def6b58bfc8)|
 |[facto.m](./Codes/facto.m)|![facto](https://github.com/user-attachments/assets/4c4af658-2191-4419-9f77-170493730f99)|
+|[factefficiency.m](./Codes/fact_efficiency.m)|![factEfficiency](https://github.com/user-attachments/assets/81f34509-58a6-4bc2-a31a-14feade8297b)|
+
