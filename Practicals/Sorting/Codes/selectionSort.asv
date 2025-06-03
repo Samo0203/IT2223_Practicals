@@ -1,0 +1,12 @@
+arr=[64,25,12,11];
+min = 0;
+
+for i = 1:n-1
+	min = i;
+		for j = i+1:n
+			if arr(j) < arr(min)
+			    min = j;
+            end
+        end
+    swap(min,i);
+end
