@@ -11,4 +11,4 @@
 |[graph09.m](./Codes/Adajecncy2.m)|![graph09.png](./Output/Adajecncy2.png)|
 |[nodeColor.m](./Codes/nodeColor.m)|![nodeColor.png](./Output/nodeColor.png)|
 |[nodeColor2.m](./Codes/nodeColor2.m)|![nodeColor2.png](./Output/nodeColor2.png)|
-|[graphImage.m](./Codes/graphImage.m)|![graphImage.png](./Output/graphImage.png)|
+|[graphImage.m](./Codes/graphImage.m)|![graphImage.png](./Output/graphImage.PNG)|
