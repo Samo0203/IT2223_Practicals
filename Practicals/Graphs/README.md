@@ -7,7 +7,7 @@
 |[graph05.m](./Codes/graph05.m)|![graph05.png](./Output/graph05.png)|
 |[graph06.m](./Codes/Adajecncy.m)|![graph06.png](./Output/Adajecncy.png)|
 |[graph07.m](./Codes/graph07.m)|![graph07.png](./Output/graph07.png)|
-|[graph08.m](./Codes/graph08.m)|![graph08.png](./Output/graph08.png)|
+|[graph08.m](./Codes/graph08.m)|![graph08.png](./Output/graph08.png)![graph08_2.png](./Output/graph08_2.png)|
 |[graph09.m](./Codes/Adajecncy2.m)|![graph09.png](./Output/Adajecncy2.png)|
 |[nodeColor.m](./Codes/nodeColor.m)|![nodeColor.png](./Output/nodeColor.png)|
 |[nodeColor2.m](./Codes/nodeColor2.m)|![nodeColor2.png](./Output/nodeColor2.png)|
