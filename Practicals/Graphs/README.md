@@ -12,3 +12,8 @@
 |[nodeColor.m](./Codes/nodeColor.m)|![nodeColor.png](./Output/nodeColor.png)|
 |[nodeColor2.m](./Codes/nodeColor2.m)|![nodeColor2.png](./Output/nodeColor2.png)|
 |[graphImage.m](./Codes/graphImage.m)|![graphImage.png](./Output/graphImage.PNG)|
+|[graph10.m](./Codes/graph10.m)|![graph10.png](./Output/10.png)|
+|[graph11.m](./Codes/graph11.m)|![graph11.png](./Output/11.png)|
+|[ex1.m](./Codes/ex1.m)|![ex1.png](./Output/ex1.jpeg)|
+|[DFSA.m](./Codes/DFSA.m)|![DFSA.png](./Output/DFSA.png)|
+|[BFSA.m](./Codes/DFSA.m)|![DFSA.png](./Output/BFSA.png)|
