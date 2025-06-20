@@ -17,5 +17,5 @@
 |[ex1.m](./Codes/ex1.m)|![ex1.png](./Output/ex1.jpeg)|
 |[DFSA.m](./Codes/DFSA.m)|![DFSA.png](./Output/DFSA.png)|
 |[BFSA.m](./Codes/DFSA.m)|![DFSA.png](./Output/BFSA.png)|
-|[dijkstras.m](./Codes/dijkstras.m)|![dijkstras.png](./Output/dijkstras.png)|
-|[salesman.m](./Codes/salesman.m)|![salesman.png](./Output/salesman.png)|
+|[dijkstras.m](./Codes/dijkstras.m)|![dijkstras.png](./Output/dijkstras.PNG)|
+|[salesman.m](./Codes/salesman.m)|![salesman.png](./Output/salesman.PNG)|
